@@ -6,9 +6,10 @@
 <hr>
 
 <div align="center">
-  <p><strong>Hey, you might know me as Rice! 🍚</strong></p>
+  <p><strong>Hey, you might know me as Away!</strong></p>
   <p>If you're wondering, here are a few projects I'm currently working on:</p>
   <br>
-  <p>- Researching the implementation of ML into IPS solutions to help create more reliable threat based anomaly detection.</p>
-  <p>- Leading the creation of mographs.com, a social media consulting site to aid creators with real feedback.</p>
+  <p>- Reuploading Games for School Use lol.</p>
+  <p>- Coding for Simga 5, trying to re-continue it (Original Src).</p>
+  <p>- Living the Life, (AKA. Very Busy IRL).</p>
 </div>
