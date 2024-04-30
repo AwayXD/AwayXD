@@ -6,7 +6,7 @@
 <hr>
 
 <div align="center">
-  <p><strong>Hey, you might know me as Away!🌙</strong></p>
+  <p><strong>Hey, you might know me as Away! 🌙</strong></p>
   <p>If you're wondering, here are a few projects I'm currently working on:</p>
   <br>
   <p>- Reuploading Games for School Use lol.</p>
