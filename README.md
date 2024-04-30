@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <p><strong>"Embracing and expressing resilience towards uncertainty, may just yield promise."</strong></p>
+  <p><strong>“Be the change that you wish to see in the world.” ― Mahatma Gandhi</strong></p>
 </div>
 
 <hr>
